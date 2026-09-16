@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0" font-family="'DejaVu Sans','Noto Sans Arabic',sans-serif">
+<style>
+ text{font-family:'DejaVu Sans','Noto Sans Arabic',sans-serif;fill:#111}
+ .frame{fill:none;stroke:#111;stroke-width:0.6}
+ .wall{fill:#3a3a3a;stroke:#111;stroke-width:0.15}
+ .wall2{fill:#6f6f6f;stroke:#111;stroke-width:0.12}
+ .slab{fill:#3a3a3a;stroke:#111;stroke-width:0.15}
+ .fill{fill:#ffffff;stroke:none}
+ .thin{fill:none;stroke:#111;stroke-width:0.15}
+ .thin2{fill:none;stroke:#444;stroke-width:0.25}
+ .furn{fill:#fff;stroke:#666;stroke-width:0.22}
+ .furn2{fill:#eceff1;stroke:#666;stroke-width:0.22}
+ .glass{fill:none;stroke:#111;stroke-width:0.22}
+ .dash{fill:none;stroke:#555;stroke-width:0.2;stroke-dasharray:1.6 1}
+ .dashb{fill:none;stroke:#111;stroke-width:0.3;stroke-dasharray:2.4 1.2}
+ .dim{fill:none;stroke:#111;stroke-width:0.15}
+ .green{fill:#e8f2e2;stroke:#7fa06a;stroke-width:0.25}
+ .pave{fill:#f0ece4;stroke:#9a927f;stroke-width:0.25}
+ .void{fill:#eaf2f8;stroke:#4a7fa5;stroke-width:0.3}
+ .sky{fill:#f7fbfd;stroke:none}
+ .t1{font-size:4.6px;font-weight:bold}
+ .t2b{font-size:3.4px;font-weight:bold}
+ .t2{font-size:3.0px}
+ .t3{font-size:2.6px}
+ .t4{font-size:2.2px}
+ .t5{font-size:1.9px}
+ .dimtx{font-size:2.1px}
+</style>
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8.0" y="8.0" width="404.0" height="281.0" class="frame"/><rect x="262.0" y="259.0" width="150.0" height="30.0" class="frame"/><line x1="262.0" y1="270.0" x2="412.0" y2="270.0" class="thin"/><line x1="262.0" y1="280.0" x2="412.0" y2="280.0" class="thin"/><line x1="362.0" y1="270.0" x2="362.0" y2="289.0" class="thin"/><line x1="312.0" y1="280.0" x2="312.0" y2="289.0" class="thin"/><text x="337.0" y="266.6" class="t2" text-anchor="middle" direction="rtl">منزل سكني بشقتين - قطعة أرض 400 م²</text><text x="337.0" y="276.6" class="t2b" text-anchor="middle" direction="rtl">مسقط السطح</text><text x="387.0" y="285.5" class="t3" text-anchor="middle" direction="rtl">مقياس  1:100</text><text x="337.0" y="285.5" class="t3" text-anchor="middle" direction="rtl">رسم ابتدائي (تصميمي)</text><text x="287.0" y="285.5" class="t2b" text-anchor="middle" direction="rtl">لوحة 06</text>
+<rect x="62.00" y="77.00" width="160.00" height="150.00" rx="0" class="fill"/>
+<rect x="62.00" y="77.00" width="160.00" height="150.00" rx="0" class="thin"/>
+<rect x="62.00" y="224.50" width="160.00" height="2.50" rx="0" class="wall2"/>
+<rect x="62.00" y="77.00" width="160.00" height="2.50" rx="0" class="wall2"/>
+<rect x="62.00" y="77.00" width="2.50" height="150.00" rx="0" class="wall2"/>
+<rect x="219.50" y="77.00" width="2.50" height="150.00" rx="0" class="wall2"/>
+<rect x="163.00" y="129.00" width="31.00" height="30.00" rx="0" class="void"/>
+<text x="178.50" y="142.40" class="t2b" text-anchor="middle" direction="rtl">منور مكشوف</text>
+<text x="178.50" y="145.60" class="t5" text-anchor="middle" direction="ltr">3.10 × 3.00</text>
+<rect x="194.00" y="77.00" width="28.00" height="52.00" rx="0" class="fill"/>
+<rect x="194.00" y="77.00" width="28.00" height="52.00" rx="0" class="wall2"/>
+<rect x="196.50" y="79.50" width="23.00" height="47.00" rx="0" class="fill"/>
+<text x="208.00" y="101.40" class="t2b" text-anchor="middle" direction="rtl">غرفة السلم</text>
+<text x="208.00" y="104.60" class="t5" text-anchor="middle" direction="ltr">2.80 × 5.20</text>
+<rect x="166.00" y="91.00" width="24.00" height="14.00" rx="0" class="furn2"/>
+<text x="178.00" y="96.00" class="t5" text-anchor="middle" direction="rtl">خزانات مياه</text>
+<text x="178.00" y="99.00" class="t5" text-anchor="middle" direction="rtl">2 × 1000 لتر</text>
+<rect x="168.00" y="113.00" width="15.00" height="10.00" rx="0" class="furn2"/>
+<text x="175.50" y="120.80" class="t5" text-anchor="middle" direction="rtl">سخان شمسي</text>
+<circle cx="74.00" cy="215.00" r="2.20" class="thin"/>
+<circle cx="74.00" cy="215.00" r="1.00" class="wall2"/>
+<text x="74.00" y="222.50" class="t5" text-anchor="middle" direction="rtl">مصرف</text>
+<circle cx="136.00" cy="215.00" r="2.20" class="thin"/>
+<circle cx="136.00" cy="215.00" r="1.00" class="wall2"/>
+<text x="136.00" y="222.50" class="t5" text-anchor="middle" direction="rtl">مصرف</text>
+<circle cx="74.00" cy="89.00" r="2.20" class="thin"/>
+<circle cx="74.00" cy="89.00" r="1.00" class="wall2"/>
+<text x="74.00" y="96.50" class="t5" text-anchor="middle" direction="rtl">مصرف</text>
+<circle cx="136.00" cy="89.00" r="2.20" class="thin"/>
+<circle cx="136.00" cy="89.00" r="1.00" class="wall2"/>
+<text x="136.00" y="96.50" class="t5" text-anchor="middle" direction="rtl">مصرف</text>
+<line x1="92.00" y1="185.00" x2="79.00" y2="205.00" class="thin2"/>
+<polygon points="79.00,205.00 82.00,202.20 79.50,200.80" class="wall2"/>
+<line x1="120.00" y1="185.00" x2="132.00" y2="203.00" class="thin2"/>
+<polygon points="132.00,203.00 135.00,200.20 132.50,198.80" class="wall2"/>
+<line x1="92.00" y1="115.00" x2="79.00" y2="98.00" class="thin2"/>
+<polygon points="79.00,98.00 82.00,95.20 79.50,93.80" class="wall2"/>
+<line x1="120.00" y1="115.00" x2="132.00" y2="98.00" class="thin2"/>
+<polygon points="132.00,98.00 135.00,95.20 132.50,93.80" class="wall2"/>
+<text x="105.00" y="193.00" class="t5" text-anchor="middle" direction="rtl">ميول 1.5%</text>
+<text x="105.00" y="133.00" class="t2b" text-anchor="middle" direction="rtl">سطح مكشوف — عزل مائي وحراري</text>
+<rect x="74.00" y="227.00" width="52.00" height="16.00" rx="0" class="dash"/>
+<text x="100.00" y="236.00" class="t5" text-anchor="middle" direction="rtl">سقف شرفة الدور الأول</text>
+<line x1="62.00" y1="259.00" x2="222.00" y2="259.00" class="dim"/>
+<line x1="60.80" y1="260.20" x2="63.20" y2="257.80" class="dim"/>
+<line x1="220.80" y1="260.20" x2="223.20" y2="257.80" class="dim"/>
+<line x1="62.00" y1="227.00" x2="62.00" y2="257.80" class="dim"/>
+<line x1="222.00" y1="227.00" x2="222.00" y2="257.80" class="dim"/>
+<text x="142.00" y="257.20" class="dimtx" text-anchor="middle" direction="ltr">16.00</text>
+<line x1="38.00" y1="227.00" x2="38.00" y2="77.00" class="dim"/>
+<line x1="39.20" y1="228.20" x2="36.80" y2="225.80" class="dim"/>
+<line x1="39.20" y1="78.20" x2="36.80" y2="75.80" class="dim"/>
+<line x1="62.00" y1="227.00" x2="36.80" y2="227.00" class="dim"/>
+<line x1="62.00" y1="77.00" x2="36.80" y2="77.00" class="dim"/>
+<text x="37.00" y="151.20" class="dimtx" text-anchor="middle" direction="ltr" transform="rotate(-90 37.00 152.00)">15.00</text>
+<circle cx="30.00" cy="63.00" r="8.50" class="thin"/>
+<polygon points="30.00,54.93 27.28,67.68 30.00,64.70 32.72,67.68" class="wall2"/>
+<text x="30.00" y="47.00" class="t4" text-anchor="middle" direction="rtl">شمال</text>
+<text x="410.00" y="22.00" class="t1" text-anchor="start" direction="rtl">مسقط السطح</text>
+<text x="410.00" y="28.00" class="t3" text-anchor="start" direction="rtl">Roof Plan — 1:100</text>
+<rect x="250" y="34" width="160" height="8" fill="#3a3a3a"/>
+<text x="330.0" y="39.6" class="t2b" text-anchor="middle" direction="rtl" fill="#ffffff">أعمال السطح</text>
+<text x="408.00" y="46.60" class="t3" text-anchor="start" direction="rtl">• عزل مائي (ممبرين) فوق طبقة ميول خرسانة خفيفة.</text>
+<text x="408.00" y="51.00" class="t3" text-anchor="start" direction="rtl">• عزل حراري 5 سم فوم أسفل بلاط المشايات.</text>
+<text x="408.00" y="55.40" class="t3" text-anchor="start" direction="rtl">• ميول 1.5% نحو 4 مصارف مطر قطر 4 بوصة.</text>
+<text x="408.00" y="59.80" class="t3" text-anchor="start" direction="rtl">• سور مبانٍ ارتفاع 1.00 م حول السطح وحول المنور.</text>
+<text x="408.00" y="64.20" class="t3" text-anchor="start" direction="rtl">• خزانان علويان سعة 1000 لتر لكل شقة.</text>
+<text x="408.00" y="68.60" class="t3" text-anchor="start" direction="rtl">• قواعد خرسانية للخزانات ووحدات التكييف.</text>
+<text x="408.00" y="73.00" class="t3" text-anchor="start" direction="rtl">• غرفة السلم مسقوفة وبها باب خروج للسطح.</text>
+<text x="408.00" y="77.40" class="t3" text-anchor="start" direction="rtl">• السطح حق انتفاع لشقة الدور الأول.</text>
+<rect x="254.00" y="247.80" width="10.00" height="2.20" rx="0" class="wall"/>
+<rect x="264.00" y="247.80" width="10.00" height="2.20" rx="0" class="fill"/>
+<rect x="274.00" y="247.80" width="10.00" height="2.20" rx="0" class="wall"/>
+<rect x="284.00" y="247.80" width="10.00" height="2.20" rx="0" class="fill"/>
+<rect x="294.00" y="247.80" width="10.00" height="2.20" rx="0" class="wall"/>
+<rect x="254.00" y="247.80" width="50.00" height="2.20" rx="0" class="thin"/>
+<text x="254.00" y="253.00" class="t5" text-anchor="middle" direction="ltr">0</text>
+<text x="264.00" y="253.00" class="t5" text-anchor="middle" direction="ltr">1</text>
+<text x="274.00" y="253.00" class="t5" text-anchor="middle" direction="ltr">2</text>
+<text x="284.00" y="253.00" class="t5" text-anchor="middle" direction="ltr">3</text>
+<text x="294.00" y="253.00" class="t5" text-anchor="middle" direction="ltr">4</text>
+<text x="304.00" y="253.00" class="t5" text-anchor="middle" direction="ltr">5</text>
+<text x="279.00" y="242.50" class="t5" text-anchor="middle" direction="rtl">مقياس رسم بياني (بالمتر)</text>
+</svg>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0" font-family="'DejaVu Sans','Noto Sans Arabic',sans-serif">
+<style>
+ text{font-family:'DejaVu Sans','Noto Sans Arabic',sans-serif;fill:#111}
+ .frame{fill:none;stroke:#111;stroke-width:0.6}
+ .wall{fill:#3a3a3a;stroke:#111;stroke-width:0.15}
+ .wall2{fill:#6f6f6f;stroke:#111;stroke-width:0.12}
+ .slab{fill:#3a3a3a;stroke:#111;stroke-width:0.15}
+ .fill{fill:#ffffff;stroke:none}
+ .thin{fill:none;stroke:#111;stroke-width:0.15}
+ .thin2{fill:none;stroke:#444;stroke-width:0.25}
+ .furn{fill:#fff;stroke:#666;stroke-width:0.22}
+ .furn2{fill:#eceff1;stroke:#666;stroke-width:0.22}
+ .glass{fill:none;stroke:#111;stroke-width:0.22}
+ .dash{fill:none;stroke:#555;stroke-width:0.2;stroke-dasharray:1.6 1}
+ .dashb{fill:none;stroke:#111;stroke-width:0.3;stroke-dasharray:2.4 1.2}
+ .dim{fill:none;stroke:#111;stroke-width:0.15}
+ .green{fill:#e8f2e2;stroke:#7fa06a;stroke-width:0.25}
+ .pave{fill:#f0ece4;stroke:#9a927f;stroke-width:0.25}
+ .void{fill:#eaf2f8;stroke:#4a7fa5;stroke-width:0.3}
+ .sky{fill:#f7fbfd;stroke:none}
+ .t1{font-size:4.6px;font-weight:bold}
+ .t2b{font-size:3.4px;font-weight:bold}
+ .t2{font-size:3.0px}
+ .t3{font-size:2.6px}
+ .t4{font-size:2.2px}
+ .t5{font-size:1.9px}
+ .dimtx{font-size:2.1px}
+</style>
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8.0" y="8.0" width="404.0" height="281.0" class="frame"/><rect x="262.0" y="259.0" width="150.0" height="30.0" class="frame"/><line x1="262.0" y1="270.0" x2="412.0" y2="270.0" class="thin"/><line x1="262.0" y1="280.0" x2="412.0" y2="280.0" class="thin"/><line x1="362.0" y1="270.0" x2="362.0" y2="289.0" class="thin"/><line x1="312.0" y1="280.0" x2="312.0" y2="289.0" class="thin"/><text x="337.0" y="266.6" class="t2" text-anchor="middle" direction="rtl">منزل سكني بشقتين - قطعة أرض 400 م²</text><text x="337.0" y="276.6" class="t2b" text-anchor="middle" direction="rtl">الموقع العام والارتدادات</text><text x="387.0" y="285.5" class="t3" text-anchor="middle" direction="rtl">مقياس  1:150</text><text x="337.0" y="285.5" class="t3" text-anchor="middle" direction="rtl">رسم ابتدائي (تصميمي)</text><text x="287.0" y="285.5" class="t2b" text-anchor="middle" direction="rtl">لوحة 01</text>
+<rect x="46.67" y="250.00" width="160.00" height="30.67" rx="0" class="pave"/>
+<text x="126.67" y="269.33" class="t2b" text-anchor="middle" direction="rtl">الشارع الرئيسي — عرض 10.00 م</text>
+<line x1="46.67" y1="264.67" x2="206.67" y2="264.67" class="dash"/>
+<rect x="60.00" y="116.67" width="133.33" height="133.33" rx="0" class="green"/>
+<rect x="60.00" y="116.67" width="133.33" height="133.33" rx="0" class="thin"/>
+<rect x="73.33" y="130.00" width="106.67" height="100.00" rx="0" class="dashb"/>
+<rect x="180.00" y="116.67" width="13.33" height="133.33" rx="0" class="pave"/>
+<rect x="166.67" y="230.00" width="8.00" height="20.00" rx="0" class="pave"/>
+<text x="186.67" y="183.33" class="t4" text-anchor="middle" direction="rtl" transform="rotate(-90 186.67 183.33)">ممر جانبي مرصوف 2.00 م</text>
+<text x="170.67" y="240.00" class="t4" text-anchor="middle" direction="rtl" transform="rotate(-90 170.67 240.00)">المدخل الأمامي</text>
+<rect x="73.33" y="130.00" width="106.67" height="100.00" rx="0" class="fill"/>
+<rect x="73.33" y="130.00" width="106.67" height="100.00" rx="0" class="wall2"/>
+<rect x="75.00" y="131.67" width="103.33" height="96.67" rx="0" class="fill"/>
+<line x1="130.67" y1="230.00" x2="130.67" y2="130.00" class="thin"/>
+<line x1="161.33" y1="230.00" x2="161.33" y2="130.00" class="thin"/>
+<line x1="140.67" y1="230.00" x2="140.67" y2="152.67" class="thin"/>
+<line x1="73.33" y1="184.67" x2="130.67" y2="184.67" class="thin"/>
+<line x1="73.33" y1="163.33" x2="130.67" y2="163.33" class="thin"/>
+<line x1="73.33" y1="155.33" x2="130.67" y2="155.33" class="thin"/>
+<line x1="130.67" y1="152.67" x2="161.33" y2="152.67" class="thin"/>
+<line x1="161.33" y1="164.67" x2="180.00" y2="164.67" class="thin"/>
+<line x1="161.33" y1="202.00" x2="180.00" y2="202.00" class="thin"/>
+<rect x="140.67" y="164.67" width="20.67" height="20.00" rx="0" class="void"/>
+<text x="151.00" y="174.67" class="t4" text-anchor="middle" direction="rtl">منور</text>
+<text x="126.67" y="207.33" class="t1" text-anchor="middle" direction="rtl">المبنى</text>
+<text x="126.67" y="217.33" class="t2b" text-anchor="middle" direction="ltr">16.00 × 15.00 = 240.00 م²</text>
+<text x="113.33" y="144.00" class="t4" text-anchor="middle" direction="rtl">السلم الخلفي</text>
+<line x1="124.00" y1="145.33" x2="162.67" y2="152.67" class="thin"/>
+<rect x="81.33" y="230.00" width="34.67" height="10.67" rx="0" class="pave"/>
+<text x="98.67" y="236.33" class="t5" text-anchor="middle" direction="rtl">تراس / شرفة</text>
+<rect x="77.33" y="122.00" width="28.00" height="8.00" rx="0" class="pave"/>
+<polyline points="166.67,230.00 174.67,230.00" class="wall2"/>
+<line x1="170.67" y1="230.00" x2="170.67" y2="248.67" class="dashb"/>
+<text x="126.67" y="123.33" class="t2b" text-anchor="middle" direction="rtl">حديقة خلفية</text>
+<text x="66.67" y="183.33" class="t4" text-anchor="middle" direction="rtl" transform="rotate(-90 66.67 183.33)">حديقة جانبية</text>
+<text x="106.67" y="242.00" class="t4" text-anchor="middle" direction="rtl">حديقة أمامية</text>
+<line x1="45.33" y1="250.00" x2="45.33" y2="116.67" class="dim"/>
+<line x1="46.13" y1="250.80" x2="44.53" y2="249.20" class="dim"/>
+<line x1="46.13" y1="117.47" x2="44.53" y2="115.87" class="dim"/>
+<line x1="60.00" y1="250.00" x2="44.53" y2="250.00" class="dim"/>
+<line x1="60.00" y1="116.67" x2="44.53" y2="116.67" class="dim"/>
+<text x="44.67" y="182.53" class="dimtx" text-anchor="middle" direction="ltr" transform="rotate(-90 44.67 183.33)">20.00</text>
+<line x1="60.00" y1="102.00" x2="193.33" y2="102.00" class="dim"/>
+<line x1="59.20" y1="102.80" x2="60.80" y2="101.20" class="dim"/>
+<line x1="192.53" y1="102.80" x2="194.13" y2="101.20" class="dim"/>
+<line x1="60.00" y1="116.67" x2="60.00" y2="101.20" class="dim"/>
+<line x1="193.33" y1="116.67" x2="193.33" y2="101.20" class="dim"/>
+<text x="126.67" y="100.53" class="dimtx" text-anchor="middle" direction="ltr">20.00</text>
+<line x1="208.00" y1="250.00" x2="208.00" y2="116.67" class="dim"/>
+<line x1="208.80" y1="250.80" x2="207.20" y2="249.20" class="dim"/>
+<line x1="208.80" y1="117.47" x2="207.20" y2="115.87" class="dim"/>
+<line x1="193.33" y1="250.00" x2="207.20" y2="250.00" class="dim"/>
+<line x1="193.33" y1="116.67" x2="207.20" y2="116.67" class="dim"/>
+<text x="207.33" y="182.53" class="dimtx" text-anchor="middle" direction="ltr" transform="rotate(-90 207.33 183.33)">20.00</text>
+<line x1="54.00" y1="250.00" x2="54.00" y2="230.00" class="dim"/>
+<line x1="54.80" y1="250.80" x2="53.20" y2="249.20" class="dim"/>
+<line x1="54.80" y1="230.80" x2="53.20" y2="229.20" class="dim"/>
+<line x1="60.00" y1="250.00" x2="53.20" y2="250.00" class="dim"/>
+<line x1="60.00" y1="230.00" x2="53.20" y2="230.00" class="dim"/>
+<text x="53.33" y="239.20" class="dimtx" text-anchor="middle" direction="ltr" transform="rotate(-90 53.33 240.00)">3.00</text>
+<line x1="54.00" y1="130.00" x2="54.00" y2="116.67" class="dim"/>
+<line x1="54.80" y1="130.80" x2="53.20" y2="129.20" class="dim"/>
+<line x1="54.80" y1="117.47" x2="53.20" y2="115.87" class="dim"/>
+<line x1="60.00" y1="130.00" x2="53.20" y2="130.00" class="dim"/>
+<line x1="60.00" y1="116.67" x2="53.20" y2="116.67" class="dim"/>
+<text x="53.33" y="122.53" class="dimtx" text-anchor="middle" direction="ltr" transform="rotate(-90 53.33 123.33)">2.00</text>
+<line x1="60.00" y1="196.67" x2="73.33" y2="196.67" class="dim"/>
+<line x1="59.20" y1="197.47" x2="60.80" y2="195.87" class="dim"/>
+<line x1="72.53" y1="197.47" x2="74.13" y2="195.87" class="dim"/>
+<line x1="60.00" y1="196.67" x2="60.00" y2="195.87" class="dim"/>
+<line x1="73.33" y1="196.67" x2="73.33" y2="195.87" class="dim"/>
+<text x="66.67" y="195.20" class="dimtx" text-anchor="middle" direction="ltr">2.00</text>
+<line x1="180.00" y1="170.00" x2="193.33" y2="170.00" class="dim"/>
+<line x1="179.20" y1="170.80" x2="180.80" y2="169.20" class="dim"/>
+<line x1="192.53" y1="170.80" x2="194.13" y2="169.20" class="dim"/>
+<line x1="180.00" y1="170.00" x2="180.00" y2="169.20" class="dim"/>
+<line x1="193.33" y1="170.00" x2="193.33" y2="169.20" class="dim"/>
+<text x="186.67" y="168.53" class="dimtx" text-anchor="middle" direction="ltr">2.00</text>
+<circle cx="224.00" cy="138.00" r="7.33" class="thin"/>
+<polygon points="224.00,131.03 221.65,142.03 224.00,139.47 226.35,142.03" class="wall2"/>
+<text x="224.00" y="125.67" class="t4" text-anchor="middle" direction="rtl">شمال</text>
+<text x="408.00" y="22.00" class="t1" text-anchor="start" direction="rtl">الموقع العام</text>
+<text x="408.00" y="28.00" class="t3" text-anchor="start" direction="rtl">Site Plan — 1:150</text>
+<rect x="256" y="34" width="152" height="8" fill="#3a3a3a"/>
+<text x="332.0" y="39.6" class="t2b" text-anchor="middle" direction="rtl" fill="#ffffff">بيانات الأرض والإشغال</text>
+<rect x="256" y="42" width="152" height="5.0" fill="#ffffff" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="42" x2="290.0" y2="47.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="45.40" class="t3" text-anchor="start" direction="rtl">أبعاد قطعة الأرض</text>
+<text x="273.00" y="45.40" class="t3" text-anchor="middle" direction="ltr">20.00 × 20.00 م</text>
+<rect x="256" y="47.0" width="152" height="5.0" fill="#f4f4f4" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="47.0" x2="290.0" y2="52.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="50.40" class="t3" text-anchor="start" direction="rtl">مساحة قطعة الأرض</text>
+<text x="273.00" y="50.40" class="t3" text-anchor="middle" direction="ltr">400.00 م²</text>
+<rect x="256" y="52.0" width="152" height="5.0" fill="#ffffff" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="52.0" x2="290.0" y2="57.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="55.40" class="t3" text-anchor="start" direction="rtl">نسبة الإشغال المسموحة</text>
+<text x="273.00" y="55.40" class="t3" text-anchor="middle" direction="ltr">60 %</text>
+<rect x="256" y="57.0" width="152" height="5.0" fill="#f4f4f4" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="57.0" x2="290.0" y2="62.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="60.40" class="t3" text-anchor="start" direction="rtl">أقصى مسطح بناء مسموح</text>
+<text x="273.00" y="60.40" class="t3" text-anchor="middle" direction="ltr">240.00 م²</text>
+<rect x="256" y="62.0" width="152" height="5.0" fill="#ffffff" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="62.0" x2="290.0" y2="67.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="65.40" class="t3" text-anchor="start" direction="rtl">أبعاد المبنى المنفذ</text>
+<text x="273.00" y="65.40" class="t3" text-anchor="middle" direction="ltr">16.00 × 15.00 م</text>
+<rect x="256" y="67.0" width="152" height="5.0" fill="#f4f4f4" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="67.0" x2="290.0" y2="72.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="70.40" class="t3" text-anchor="start" direction="rtl">مسطح البناء بالدور</text>
+<text x="273.00" y="70.40" class="t3" text-anchor="middle" direction="ltr">240.00 م²</text>
+<rect x="256" y="72.0" width="152" height="5.0" fill="#ffffff" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="72.0" x2="290.0" y2="77.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="75.40" class="t3" text-anchor="start" direction="rtl">الارتداد الأمامي</text>
+<text x="273.00" y="75.40" class="t3" text-anchor="middle" direction="ltr">3.00 م</text>
+<rect x="256" y="77.0" width="152" height="5.0" fill="#f4f4f4" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="77.0" x2="290.0" y2="82.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="80.40" class="t3" text-anchor="start" direction="rtl">الارتداد الخلفي</text>
+<text x="273.00" y="80.40" class="t3" text-anchor="middle" direction="ltr">2.00 م</text>
+<rect x="256" y="82.0" width="152" height="5.0" fill="#ffffff" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="82.0" x2="290.0" y2="87.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="85.40" class="t3" text-anchor="start" direction="rtl">الارتداد الجانبي (يمين/يسار)</text>
+<text x="273.00" y="85.40" class="t3" text-anchor="middle" direction="ltr">2.00 م</text>
+<rect x="256" y="87.0" width="152" height="5.0" fill="#f4f4f4" stroke="#bbb" stroke-width="0.15"/>
+<line x1="290.0" y1="87.0" x2="290.0" y2="92.0" stroke="#bbb" stroke-width="0.15"/>
+<text x="406.00" y="90.40" class="t3" text-anchor="start" direction="rtl">صافي المساحات المكشوفة</text>
+<text x="273.00" y="90.40" class="t3" text-anchor="middle" direction="ltr">160.00 م²</text>
+<rect x="256" y="92.0" width="152" height="5.0" fill="#e8eef4" stroke="#888" stroke-width="0.2"/>
+<text x="406.00" y="95.40" class="t2b" text-anchor="start" direction="rtl">نسبة الإشغال المحققة</text>
+<text x="273.00" y="95.40" class="t2b" text-anchor="middle" direction="ltr">240 ÷ 400 = 60.0 %</text>
+<rect x="256" y="34" width="152" height="63.0" fill="none" stroke="#666" stroke-width="0.3"/>
+<rect x="260.00" y="248.53" width="6.67" height="1.47" rx="0" class="wall"/>
+<rect x="266.67" y="248.53" width="6.67" height="1.47" rx="0" class="fill"/>
+<rect x="273.33" y="248.53" width="6.67" height="1.47" rx="0" class="wall"/>
+<rect x="280.00" y="248.53" width="6.67" height="1.47" rx="0" class="fill"/>
+<rect x="286.67" y="248.53" width="6.67" height="1.47" rx="0" class="wall"/>
+<rect x="260.00" y="248.53" width="33.33" height="1.47" rx="0" class="thin"/>
+<text x="260.00" y="252.00" class="t5" text-anchor="middle" direction="ltr">0</text>
+<text x="266.67" y="252.00" class="t5" text-anchor="middle" direction="ltr">1</text>
+<text x="273.33" y="252.00" class="t5" text-anchor="middle" direction="ltr">2</text>
+<text x="280.00" y="252.00" class="t5" text-anchor="middle" direction="ltr">3</text>
+<text x="286.67" y="252.00" class="t5" text-anchor="middle" direction="ltr">4</text>
+<text x="293.33" y="252.00" class="t5" text-anchor="middle" direction="ltr">5</text>
+<text x="276.67" y="245.00" class="t5" text-anchor="middle" direction="rtl">مقياس رسم بياني (بالمتر)</text>
+<rect x="256" y="103.0" width="152" height="8" fill="#3a3a3a"/>
+<text x="332.0" y="108.6" class="t2b" text-anchor="middle" direction="rtl" fill="#ffffff">ملاحظات الموقع</text>
+<text x="406.00" y="115.60" class="t3" text-anchor="start" direction="rtl">• المبنى دوران (أرضي + أول) بشقة لكل دور.</text>
+<text x="406.00" y="120.00" class="t3" text-anchor="start" direction="rtl">• المدخل الرئيسي أمامي من الشارع ويؤدي إلى بهو</text>
+<text x="406.00" y="124.40" class="t3" text-anchor="start" direction="rtl">•   مشترك ومنه إلى السلم الخلفي.</text>
+<text x="406.00" y="128.80" class="t3" text-anchor="start" direction="rtl">• ممر جانبي مرصوف عرض 2.00 م يصل الواجهة</text>
+<text x="406.00" y="133.20" class="t3" text-anchor="start" direction="rtl">•   الأمامية بالحديقة الخلفية ويخدم السلم.</text>
+<text x="406.00" y="137.60" class="t3" text-anchor="start" direction="rtl">• المنور المكشوف 3.10 × 3.00 م يخترق الدورين</text>
+<text x="406.00" y="142.00" class="t3" text-anchor="start" direction="rtl">•   لإضاءة وتهوية الحمامات والممر.</text>
+<text x="406.00" y="146.40" class="t3" text-anchor="start" direction="rtl">• أسوار الأرض ارتفاع 2.20 م مبانٍ ودخلات معدنية.</text>
+<text x="406.00" y="150.80" class="t3" text-anchor="start" direction="rtl">• الارتدادات مطابقة لاشتراطات المنطقة، وتُراجع</text>
+<text x="406.00" y="155.20" class="t3" text-anchor="start" direction="rtl">•   مع الإدارة الهندسية قبل التنفيذ.</text>
+</svg>
